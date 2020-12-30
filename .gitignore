@@ -1,5 +1,6 @@
 testImages/
 testImagesProcessed/
 testImagesResized/
+archive/
 mainBulkImagePreprocessing.py
 mainBulkResizingImages.py 
