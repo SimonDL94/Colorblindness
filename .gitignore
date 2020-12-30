@@ -1,0 +1,5 @@
+testImages/
+testImagesProcessed/
+testImagesResized/
+mainBulkImagePreprocessing.py
+mainBulkResizingImages.py 
