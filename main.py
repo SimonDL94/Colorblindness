@@ -9,7 +9,7 @@ model = load_model("src/CNN")
 #### reading Image & Preprocessing
 ip = ImageProcessing()
 
-img = ip.read("testImages/Test1.png")
+img = ip.read("PathTo/ColorBlindTest.png")
 
 img = cv2.resize(img,(300,300))
 
