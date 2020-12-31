@@ -1,8 +1,0 @@
-testImages/
-testImagesProcessed/
-testImagesResized/
-archive/
-mainBulkImagePreprocessing.py
-mainBulkResizingImages.py 
-.vscode/settings.json
-imagesMedium/
