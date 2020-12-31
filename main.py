@@ -9,7 +9,7 @@ model = load_model("src/CNN")
 #### reading Image & Preprocessing
 ip = ImageProcessing()
 
-img = ip.read("PathTo/ColorBlindTest.png")
+img = ip.read("testImages/Test8.jpeg")
 
 img = cv2.resize(img,(300,300))
 
@@ -38,4 +38,6 @@ pred = model.predict(img)
 
 # predicting the number for each test
 number = pred.argmax()
+
+print(number)
 

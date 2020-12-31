@@ -6,4 +6,3 @@ mainBulkImagePreprocessing.py
 mainBulkResizingImages.py 
 .vscode/
 imagesMedium/
-.gitignore
