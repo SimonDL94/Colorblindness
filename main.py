@@ -1,4 +1,5 @@
 from src.ImageProcessing import ImageProcessing
+import os
 import cv2 
 import numpy as np
 from keras.models import load_model
@@ -9,7 +10,7 @@ model = load_model("src/CNN")
 #### reading Image & Preprocessing
 ip = ImageProcessing()
 
-img = ip.read("testImages/Test8.jpeg")
+img = ip.read("PathToTestImage")
 
 img = cv2.resize(img,(300,300))
 
