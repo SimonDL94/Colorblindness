@@ -3,7 +3,7 @@
 ### Intro
 Colorblindness includes necessary code to preprocess "red-green" **"Ishihara"** color blind tests in order to make the number / figure being diplayed become visible. 
 
-![alt text](https://github.com/SimonDL94/Colorblindness/blob/master/images/processingImage.png | width=100)
+![alt text](https://github.com/SimonDL94/Colorblindness/blob/master/images/processingImage.png)
 
 ### src/ImageProcessing.py
 The ImageProcessing.py class contains the necessary preprocessing need in order to obtain a binary black-white contrast image diplaying the number / figure being displayed on the color blindness test. The ImageProcessing.py contains the necessary elements to obtain a binary black-white pixel image:
