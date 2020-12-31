@@ -1,5 +1,7 @@
 # Colorblindness
 
+Link to Medium article: https://simondelamonica.medium.com/beating-red-green-color-blindness-test-with-computer-vision-ml-part-i-7f3991e33591
+
 ### Intro
 Colorblindness includes necessary code to preprocess "red-green" **"Ishihara"** color blind tests in order to make the number / figure being diplayed become visible. 
 
