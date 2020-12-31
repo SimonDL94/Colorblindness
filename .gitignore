@@ -4,5 +4,5 @@ testImagesResized/
 archive/
 mainBulkImagePreprocessing.py
 mainBulkResizingImages.py 
-.vscode/
+.vscode/settings.json
 imagesMedium/
